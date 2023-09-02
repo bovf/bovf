@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dobry Nikolov aka @bovf
 - 👀 I’m interested in biology, programing and game development
-- 🌱 I’m currently in university studying molecular biology.
+- 👨🏽‍💻 I’m currently working as a DevOps Engineer
 - 📫 You can reach me on my email: dobry989@gmail.com
 
 <!---
