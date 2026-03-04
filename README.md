@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Dobry Nikolov aka @bovf
-- 👀 I’m interested in biology, programing and infrastructure
-- 👨🏽‍💻 I’m currently working as a DevOps Engineer and Go Developer
+- 👋 Hi, I'm Dobry Nikolov aka @bovf
+- 👀 I'm interested in biology, programing and infrastructure
+- 👨🏽‍💻 I'm currently working as a DevOps Engineer and Go Developer
+- 📦 I've moved primarily to Codeberg — find me at https://codeberg.org/bovfbovf
 
 <!---
 bovf/bovf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
